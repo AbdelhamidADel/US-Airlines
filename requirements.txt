@@ -237,7 +237,6 @@ pytweening==1.0.4
 pyviz-comms==2.2.1
 pywaffle==1.1.0
 pywhatkit==5.4
-pywinpty==2.0.7
 PyYAML==6.0
 pyzbar==0.1.9
 qrtools==0.0.2
