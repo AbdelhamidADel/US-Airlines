@@ -69,5 +69,6 @@ urllib3==1.26.12
 validators==0.20.0
 watchdog==2.1.9
 Werkzeug==2.2.2
+wordcloud==1.8.2.2
 wrapt==1.14.1
 zipp==3.9.0
